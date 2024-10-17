@@ -1,5 +1,3 @@
-# HSzmajser
-My personal repository.
 # About me
 Technology enthusiast... what started as a childhood hobby has grown into a lifelong passion.
 # Hobbies
